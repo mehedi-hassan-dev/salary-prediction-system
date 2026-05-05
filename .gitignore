@@ -4,3 +4,4 @@ __pycache__/
 *.joblib
 .ipynb_checkpoints
 .env
+.vscode/
