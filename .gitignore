@@ -1,8 +1,9 @@
 env/
+salary-env/
 __pycache__/
 *.pkl
 *.joblib
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .env
 .vscode/
-data/processed
+data/processed/
