@@ -2,6 +2,7 @@ env/
 salary-env/
 __pycache__/
 *.pkl
+!models/best_model.pkl
 *.joblib
 .ipynb_checkpoints/
 .env
