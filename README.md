@@ -295,7 +295,7 @@ salary-prediction-ml-project/
 Clone the repository:
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/mehedi-hassan-dev/salary-prediction-system.git
 ```
 
 Move to project directory:
