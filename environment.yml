@@ -12,4 +12,5 @@ dependencies:
   - pandas
   - scikit-learn
   - seaborn
-prefix: C:\Users\Babu\anaconda3\envs\salary-env
+  - pip:
+    - streamlit==1.58.0
